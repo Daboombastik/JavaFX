@@ -1,0 +1,8 @@
+.date-picker .month-year-pane{
+    -fx-background-color: aqua;
+    -fx-padding: 5 5 5 5;
+}
+.date-picker .day-name-cell{
+    -fx-background-color: black;
+    -fx-text-fill:aqua;
+}
